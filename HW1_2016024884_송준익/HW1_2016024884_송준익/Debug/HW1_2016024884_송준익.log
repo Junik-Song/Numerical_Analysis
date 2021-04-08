@@ -1,0 +1,8 @@
+﻿  소스.cpp
+C:\Users\User\source\repos\Numerical Analysis\HW1_2016024884_송준익\HW1_2016024884_송준익\소스.cpp(5,72): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\User\source\repos\Numerical Analysis\HW1_2016024884_송준익\HW1_2016024884_송준익\소스.cpp(92,64): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\source\repos\Numerical Analysis\HW1_2016024884_송준익\HW1_2016024884_송준익\소스.cpp(92,84): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\source\repos\Numerical Analysis\HW1_2016024884_송준익\HW1_2016024884_송준익\소스.cpp(92,113): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\source\repos\Numerical Analysis\HW1_2016024884_송준익\HW1_2016024884_송준익\소스.cpp(100,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\User\source\repos\Numerical Analysis\HW1_2016024884_송준익\HW1_2016024884_송준익\소스.cpp(112,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  HW1_2016024884_송준익.vcxproj -> C:\Users\User\source\repos\Numerical Analysis\HW1_2016024884_송준익\Debug\HW1_2016024884_송준익.exe
